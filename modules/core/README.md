@@ -329,7 +329,7 @@ By default, the Engine writes logs to the console. You can configure the Engine 
                 "path": {{STRING}},
                 "prefix": {{STRING}},
                 "maxSize": {{INTEGER}},
-                "maxFiles": {{INTEGER},
+                "maxFiles": {{INTEGER}},
                 "append": {{BOOLEAN}}
             },
             "rules": [
